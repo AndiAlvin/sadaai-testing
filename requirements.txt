@@ -114,7 +114,7 @@ pydantic==1.8.2
 pydeck==0.7.1
 pygame==2.1.2
 Pygments==2.11.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 Pympler==1.0.1
 pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
 pyparsing==3.0.7
