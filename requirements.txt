@@ -80,7 +80,7 @@ mkl-service==2.4.0
 multidict @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/croot-af6k74k7/multidict_1640703861097/work
 murmurhash==1.0.6
 nbclient==0.5.13
-nbconvert==6.4.5
+nbconvert==6.5.1
 nbformat==5.2.0
 nest-asyncio==1.5.4
 nltk @ file:///opt/conda/conda-bld/nltk_1645628263994/work
