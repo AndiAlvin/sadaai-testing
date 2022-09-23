@@ -102,7 +102,7 @@ platformdirs==2.5.1
 preshed==3.0.6
 prometheus-client==0.13.1
 prompt-toolkit==3.0.28
-protobuf==3.19.4
+protobuf==3.19.5
 psutil==5.9.0
 ptyprocess==0.7.0
 pure-eval==0.2.2
