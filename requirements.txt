@@ -18,7 +18,7 @@ blis==0.7.7
 brotlipy==0.7.0
 cachetools==5.0.0
 catalogue==2.0.7
-certifi==2021.10.8
+certifi==2022.12.7
 cffi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/croot-2p6q7e2r/cffi_1642701115063/work
 charset-normalizer==2.0.12
 click @ file:///opt/concourse/worker/volumes/live/709f530a-8ffd-4e02-4f5f-9b3cfddd0e0b/volume/click_1646056616410/work
